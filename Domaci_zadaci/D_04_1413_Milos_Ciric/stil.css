@@ -1,0 +1,23 @@
+body{
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+#tabela img{
+    height: 260px;
+    width: 210px;
+}
+
+#tabelaDva img{
+    height: 120px;
+    width: 80px;
+}
+
+#poravnanje{
+    display: inline-block;
+}
+
+#poravnanje h2{
+    text-align: center;
+}
+
