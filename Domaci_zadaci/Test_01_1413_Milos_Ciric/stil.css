@@ -1,0 +1,55 @@
+body{
+    
+
+}
+#nav li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px;
+    color: black;
+}
+
+#nav li:hover{
+    background-color: orange;
+}
+
+#tabela {
+    text-align: center;
+    padding: 20px;
+}
+
+.nar{
+    color: orange;
+}
+
+.podvuceno{
+    text-decoration: underline;
+}
+
+.grad{
+    color: orange;
+}
+
+.qa{
+    color: green;
+}
+
+#kontakt{
+    border: 1px solid orange ;
+}
+
+#centar{
+    text-align: center;
+}
+
+.divac tr:nth-child(1){
+    color: orange;
+}
+
+.divac a{
+    color:orange;
+}
+.divac a:visited{
+    color:red;
+}
+
