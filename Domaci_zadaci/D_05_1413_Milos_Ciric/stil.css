@@ -3,17 +3,7 @@
     text-align: center;
 }
 
-#div1 {
-    float: left;
-    width: 250px;
-}
-
-#div2 {
-    float: left;
-    width: 250px;
-}
-
-#div3 {
+.divovi {
     float: left;
     width: 250px;
 }
