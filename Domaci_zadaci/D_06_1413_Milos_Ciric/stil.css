@@ -68,17 +68,21 @@ body {
 }
 }
 
-.div1, .div2, .div3, .div4, .div5, input, label, textarea, select {
+.inputi {
+    padding: 10px;
+}
+
+.submit, input, label, textarea, select {
     padding: 10px;   
 }
 
-.div5 input {
+.submit input {
     background-color: green;
     color: white;
     cursor: pointer;
 }
 
-.div5 input:hover {
+.submit input:hover {
     opacity: 0.8;
 }
 
