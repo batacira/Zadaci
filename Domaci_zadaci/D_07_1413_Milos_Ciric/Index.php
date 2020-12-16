@@ -23,8 +23,8 @@
     // Zadatak 2
     $n = 12;
     $a = 4;
-    $a = $a + 2;
-    $ostalo = $n - $a;
+    $b = $a + 2;
+    $ostalo = $n - ($a + $b);
     echo $ostalo;
     echo "<br>";
     echo "<br>";
