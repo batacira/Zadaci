@@ -6,7 +6,7 @@ $sum=0; $rem=0; $i=0;
 while($i < $nu){
 $rem=$num%10;
 $sum = $sum + $rem;
-$num=$num/10;
+$num=floor($num/10);
 $i++;
 }
 
